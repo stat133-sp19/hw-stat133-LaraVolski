@@ -1,20 +1,5 @@
-# Stat 133, Spring 2019
+# workout02
 
-Private Repository for HW assignments of Stat 133 (Spring 2019)
+This workout allowed me to gain more knowledge of Shiny apps and refined my skills in ggplot and for loops.
 
-- Name: Lara Volski
-- Github username: LaraVolski
-- Email: lavolski@berkeley.edu
-- Lab section: 101
-- GSI: Colin Kou
-
------
-
-## Assignments
-
-- [Demo](demo)
-- [Workout 1](workout1)
-- Workout 2
-- Workout 3
-
-
+It builds off of warmup06, and allows one to model different kinds of financial forecasts depending on how much money they intend to invest and what plan they choose to adopt. 
